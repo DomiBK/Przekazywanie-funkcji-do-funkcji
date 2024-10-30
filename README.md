@@ -1,0 +1,1 @@
+# Przekazywanie-funkcji-do-funkcji
